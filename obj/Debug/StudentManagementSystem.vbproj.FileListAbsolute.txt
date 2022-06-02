@@ -1,0 +1,9 @@
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.vbprojAssemblyReference.cache
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.CourseDetails.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.LandingPage.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.Login.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.Resources.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.StudentInfo.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.UserManagement.resources
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\CRS\Source\Repos\StudentManagementSystem2\obj\Debug\StudentManagementSystem.exe.licenses
